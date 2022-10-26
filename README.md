@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Ajay Kumar, a final year student at the Rajeev Gandhi Memorial College Of Engineering And Technology,Nandyal.
 
-- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
+- 🏢 I'm currently interning at [Global Group](http://www.globalgrp.co.uk/) 
 - 👯 I'm happy to collaborate on any web development or data science project
 - 💬 Ask me about my experiences as a Computer Science student at RGMCET and my previous internships
 - 📫 How to reach me: 
