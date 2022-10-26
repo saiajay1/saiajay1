@@ -11,10 +11,10 @@
 <p align="left">
 <a href="https://twitter.com/@ajaychowdhary21"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://facebook.com/saiajay"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajaykumar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/ajaykumar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Ajay-kumar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
@@ -51,7 +51,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 575 Contributions in the Year 2020
+> 🏆 1003 Contributions in the Year 2021
  > 
 > 📦 163.2 kB Used in Github's Storage 
  > 
@@ -59,7 +59,7 @@
  > 
 > 📜 62 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 90 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -67,7 +67,7 @@
 🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
 🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
 🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+🌙 Night      90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -124,6 +124,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 -----
-Credits: [aaditkamat](https://github.com/aaditkamat)
 
 Last Edited on: 27/12/2020
