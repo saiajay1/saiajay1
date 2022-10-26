@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Ajay Kumar, a final year student at the Rajeev Gandhi Memorial College Of Engineering And Technology,Nandyal.
+## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am CH.Ajay Kumar, a final year student at the Rajeev Gandhi Memorial College Of Engineering And Technology,Nandyal.
 
 - 🏢 I'm currently interning at [Global Group](http://www.globalgrp.co.uk/) 
 - 👯 I'm happy to collaborate on any web development or data science project
